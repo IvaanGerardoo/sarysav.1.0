@@ -1,0 +1,7 @@
+{
+    "/api/*":{
+        "target": "http://api.inaeba.guanajuato.gob.mx",
+        "secure": false,
+        "logLevel": "debug"
+    }
+}
